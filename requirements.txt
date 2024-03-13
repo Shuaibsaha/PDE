@@ -1,0 +1,3 @@
+slycot==0.3.3
+SQLAlchemy==1.2.14
+tornado==5.1.1
